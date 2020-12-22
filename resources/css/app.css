@@ -1,0 +1,34 @@
+
+
+.main-container {
+    margin-top:100px;
+}
+.form-group label {
+    width:30%;
+    margin-right:-4px;
+}
+
+.form-group input {
+    display:inline-block;
+    width:70%;
+    margin-right:-4px;
+}
+
+.hide {
+    display:none;
+}
+
+#error-box {
+    color:#f00;
+}
+
+
+.header-list-colors {
+    border-bottom: 1px solid #000000;
+    margin-bottom: 10px;
+
+}
+
+.group-box, .variant-box {
+    padding-left:10px;
+}
